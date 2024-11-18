@@ -1,3 +1,3 @@
 "dev1" 
 "dev2 change" 
-main也修改同样的地方
+main也修改同样的地方，feat修改，现在merge之后
